@@ -6,8 +6,8 @@ Um conversor de moedas simples e funcional, desenvolvido em **HTML, CSS e JavaSc
 
 ## 📸 Demonstração
 
-<!-- Adicione aqui um print da tela do projeto -->
-<!-- ![Preview do conversor](caminho-da-imagem.png) -->
+
+![Preview do conversor](print-conversor-moedas.png) -->
 
 ## ✨ Funcionalidades
 
